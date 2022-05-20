@@ -3,6 +3,6 @@ Vedlegg til bachelor oppgaven "Virtuelle containere og sikkerhetsutfordringene r
 
 Vedlegg A: 
 
-Vedlegg B: [R2R/poc_omod.c](R2R/poc_omod.c)
+Vedlegg B: [R2R/poc_oMod.c](R2R/poc_oMod.c)
 
 Vedlegg C: [uring_escape/escape.c](uring_escape/escape.c)
